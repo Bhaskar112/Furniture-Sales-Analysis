@@ -1,9 +1,9 @@
-# EV Sales Data Analysis
+# Furniture Sales Data Analysis
 ## Problem Statement:
 
-You can find the problem statement document in the following link: 
+You can find the problem statement document in the following link: https://drive.google.com/file/d/1SL2-P3c9Z5FVDtser1RY-JO5_J0zY_Bq/view?usp=drivesdk
 ## Data set:
-You can find the data set in the given link: https://drive.google.com/file/d/1aPvY3LcYWkX64ybgY5wbwlDCV2j5BWyr/view?usp=drivesdk
+You can find the data set in the given link: https://drive.google.com/file/d/1OuqBMtHNkMmp7nK3z5UzKNuAlPgNpXuZ/view?usp=drivesdk
 
 ## Approach 
 <p>The main goal of the project is to find key metrics and factors and then show meaningful relationships between them based on different features available in the dataset.</p>
